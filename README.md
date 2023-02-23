@@ -18,6 +18,10 @@
 
 ## 3. Marco Teorico
 
+![image](https://user-images.githubusercontent.com/116813974/221028854-447aa93d-dd96-4d60-860a-d9abbc5cd057.png)
+
+![image](https://user-images.githubusercontent.com/116813974/221029081-5185c3b4-2bf3-4e1c-b74b-8c0c07ec4049.png)
+
 
 ## 4. Materiales y equipos requeridos
 ![image](https://user-images.githubusercontent.com/116775893/220949811-520e44c9-3f71-46ca-9479-3f357529b238.png)
