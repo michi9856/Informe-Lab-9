@@ -13,10 +13,21 @@
 
 # 1. OBJETIVOS
 
+## Objetivos generales
 
-### OBJETIVO GENERA
+• Demostrar el uso de los números complejos para las operaciones aritméticas de cantidades fasoriales, mediante la resolución de ejercicios analíticamente y con calculadora, afianzando los conocimientos adquiridos en clase sobre el tema propuesto.
 
-## 3. Marco Teorico
+## Objetivos Específicos:
+
+• Comprender que son los números complejos, los factores y su representación gráfica, mediante una búsqueda bibliográfica.
+
+• Identificar las operaciones de los números complejos en su forma polar y rectangular, mediante la resolución de ejercicios paso a paso y con la ayuda de una calculadora.
+
+• Explicar el desarrollo del laboratorio, mediante un video, el cual exponga la teoría y las prácticas realizadas.
+
+• Comparar los resultados que se obtienen en la resolución analítica y experimental de los ejercicios.
+
+## 2. Marco Teorico
 
 ![image](https://user-images.githubusercontent.com/116813974/221028854-447aa93d-dd96-4d60-860a-d9abbc5cd057.png)
 
@@ -75,6 +86,14 @@ resultados.
 https://www.youtube.com/watch?v=X5CGR1Cdeak
 
 # 5. CONCLUSIONES
+
+• A partir de lo investigado anteriormente, se puede decir que el fasor se caracteriza por ser una cantidad que cambia dependiendo del tiempo, pero en electrónica se le considera un vector y se presenta en dos tipos de coordenadas: rectangulares representadas de (A + jB) y las polares (C∠θ). En su representación gráfica en el plano complejo el eje vertical es el eje imaginario y el eje horizontal se le denomina el eje real, mientras que en posiciones angulares el eje real positivo representa cero grados, en sentido contrario a las manecillas del reloj el eje j positivo 90 grados, el eje real negativo grados, el eje j negativo 270 y tras una rotación completa de 360 ​​grados, se regresa al eje real positivo.
+
+• Al momento de trabajar tanto con coordenadas polares y rectangulares se pueden realizar diferentes operaciones, como transformaciones, suma, resta, multiplicación y división. Cuando se calculan estas operaciones analíticamente nos lleva más tiempo según el método que se utiliza, por lo que cuando las sean de sumar y restar es más viable utilizar coordenadas rectangulares, mientras que cuando vamos a multiplicar o dividir es mejor utilizar coordenadas polares y las fórmulas específicas que facilitan el proceso.
+
+• En la justificación del video se pude observar los ejercicios realizados sobre números complejos para entender de mejor manera sus propiedades y como realizar el ejercicio para no resulte tan complejo ya que dependiendo de la operación se trabaja con coordenadas rectangulares o polares.
+
+• Como se pudo observar los valores que se obtuvieron analíticamente y con la calculadora solo varían en decimales, por lo tanto, se puede afirmar su veracidad.
 
 # 6. BIBLIOGRAFIA
 
